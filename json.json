@@ -1,0 +1,159 @@
+
+[
+
+{
+  "ID": "#457A45",
+
+  "Désignation": "Audi e-tron",
+  "LePrix": "55000$",
+    "Catégorie": "luxe",
+    "Disponibilité": [" Tanger", " Rabat", " Casablanca", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Rabat",
+      "aderess": "lotissement Vita n°36، Av. Hassan II, Rabat"
+    }
+  },
+  {
+    "ID": "#407B45",
+    "Désignation": "Audi RS e-tron GT",
+    "LePrix": "65000$",
+    "Catégorie": "Sport",
+    "Disponibilité": [" Tanger", " Rabat", " Meknès"],
+    "Fournisseur": {
+      "social": "Audi-Tanger",
+      "aderess": "Bd des Forces Armées Royales, Tanger 90000"
+    }
+  },
+  {
+    "ID": "#407C45",
+    "Désignation": "Audi A1",
+    "LePrix": "39000$",
+    "Catégorie": "Sport",
+    "Disponibilité": [" Tanger", "Casablanca ", " Meknès"],
+    "Fournisseur": {
+      "social": "Audi-Casablanca",
+      "aderess": "Bd Moulay Slimane, Casablanca 20250"
+    }
+  },
+  {
+    "ID": "#406C45",
+    "Désignation": "Audi A1 Berline",
+    "LePrix": "29000$",
+    "Catégorie": "Sport",
+    "Disponibilité": [" Tanger", "Casablanca ", " Meknès"],
+    "Fournisseur": {
+      "social": "Audi-Casablanca",
+      "aderess": "Bd Moulay Slimane, Casablanca 20250"
+    }
+  },
+  {
+    "ID": "#406C45",
+    "Désignation": "Audi A1 Berline",
+    "LePrix": "60000$",
+    "Catégorie": "Sport & luxe",
+    "Disponibilité": [" Tanger", "Casablanca ", " Meknès"],
+    "Fournisseur": {
+      "social": "Audi-Casablanca",
+      "aderess": "Bd Moulay Slimane, Casablanca 20250"
+    }
+  },
+  {
+    "ID": "#405C45",
+    "Désignation": "Audi A1 Coupé",
+    "LePrix": "35000$",
+    "Catégorie": "Sport ",
+    "Disponibilité": [" Tanger", "Casablanca ", " Meknès", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Casablanca",
+      "aderess": "Bd Moulay Slimane, Casablanca 20250"
+    }
+  },
+  {
+    "ID": "#405D45",
+    "Désignation": "Audi A6 Berline",
+    "LePrix": "45000$",
+    "Catégorie": "Sport ",
+    "Disponibilité": [" Tanger", "Casablanca ", " Meknès", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Casablanca",
+      "aderess": "Bd Moulay Slimane, Casablanca 20250"
+    }
+  },
+  {
+    "ID": "#409D45",
+    "Désignation": "Audi Q2",
+    "LePrix": "55000$",
+    "Catégorie": "familiale ",
+    "Disponibilité": [" Tanger", "Casablanca ", " Meknès", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Casablanca",
+      "aderess": "Bd Moulay Slimane, Casablanca 20250"
+    }
+  },
+  {
+    "ID": "#409T45",
+    "Désignation": "Audi TT Coupé",
+    "LePrix": "50000$",
+    "Catégorie": "Sport ",
+    "Disponibilité": ["Casablanca ", " Rabat", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Marrakech",
+      "aderess": " km.16, 5 Rte de Casablanca, Marrakech 40000"
+    }
+  },
+  {
+    "ID": "#409R45",
+    "Désignation": "Audi R8",
+    "LePrix": "97000$",
+    "Catégorie": "Aport ",
+    "Disponibilité": ["Casablanca ", " Rabat", "Tanger"],
+    "Fournisseur": {
+      "social": "Audi-Tanger",
+      "aderess": "Bd des Forces Armées Royales, Tanger 90000"
+    }
+  },
+  {
+    "ID": "#409Q45",
+    "Désignation": "Audi Q7",
+    "LePrix": "30000$",
+    "Catégorie": "familiale ",
+    "Disponibilité": ["Casablanca ", " Rabat", "Tanger"],
+    "Fournisseur": {
+      "social": "Audi-Tanger",
+      "aderess": "Bd des Forces Armées Royales, Tanger 90000"
+    }
+  },
+  {
+    "ID": "#401D45",
+    "Désignation": "Audi Q5 Sportback",
+    "LePrix": "32000$",
+    "Catégorie": "familiale & Sport ",
+    "Disponibilité": [" Tanger", "Casablanca ", " Meknès", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Casablanca",
+      "aderess": "Bd Moulay Slimane, Casablanca 20250"
+    }
+  },
+  {
+    "ID": "#501L45",
+    "Désignation": "Audi A8 L",
+    "LePrix": "72000$",
+    "Catégorie": "luxe & sport ",
+    "Disponibilité": [" Tanger", " Meknès", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Marrakech",
+      "aderess": " km.16, 5 Rte de Casablanca, Marrakech 40000"
+    }
+  },
+  {
+    "ID": "#591C45",
+    "Désignation": "Audi A4 Berline",
+    "LePrix": "38000$",
+    "Catégorie": "luxe ",
+    "Disponibilité": [" Tanger", " Meknès", " Marrakech"],
+    "Fournisseur": {
+      "social": "Audi-Marrakech",
+      "aderess": " km.16, 5 Rte de Casablanca, Marrakech 40000"
+    }
+  }
+]

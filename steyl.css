@@ -1,0 +1,29 @@
+a.nav-link{
+    margin-left: 80px;
+}
+nav{
+    width: 100%;
+}
+
+h1{
+   
+    margin-top: 80px;
+    font-size: 200px;
+   
+ 
+}
+
+table{
+    margin-top: 90px;
+    background-color: rgba(255, 255, 255, 0.699);
+}
+/* #demo{
+    margin-top: 10px;
+} */
+.dataTables_info{
+background-color: brown;
+}
+select{
+    display: none;
+}
+
